@@ -1,7 +1,7 @@
 <template>
     <section class="text-gray-600 body-font">
         <h1>Welcome to Foodr</h1>
-        
+
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-col text-center w-full mb-20">
                 <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">DISHES</h2>
@@ -11,6 +11,10 @@
                 <Dish v-for="dish in dishes" :key="dish" :dish="dish" />
             </div>
         </div>
+
+        <footer>
+            Copyright 2025
+        </footer>
     </section>
 </template>
 
