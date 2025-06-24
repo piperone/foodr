@@ -1,6 +1,6 @@
 <template>
     <section class="text-gray-600 body-font">
-        <h1>Welcome to Foodr</h1>
+        <h1>Welcome to Eatr</h1>
 
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-col text-center w-full mb-20">
