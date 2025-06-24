@@ -11,10 +11,6 @@
                 <Dish v-for="dish in dishes" :key="dish" :dish="dish" />
             </div>
         </div>
-
-        <footer>
-            Copyright 2025
-        </footer>
     </section>
 </template>
 

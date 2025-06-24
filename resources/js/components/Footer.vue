@@ -59,6 +59,8 @@
       </span>
             </div>
         </div>
+
+        Copyright 2025
     </footer>
 </template>
 
